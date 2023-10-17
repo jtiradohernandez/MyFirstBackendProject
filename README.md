@@ -1,2 +1,2 @@
 # My First Backend Project
-A project that will help me to learn how to work as backend using Kotlin
+A project that will help me to learn how backend works using Kotlin
